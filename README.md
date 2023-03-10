@@ -3,7 +3,7 @@
 ### About me 📜
 Hello everyone, my name is Panprakarn Laochanapinyo. I'm 17 years old from Thailand. I'm studying at Bangna Commercial College. And I can use about 3-4 programming languages but my favorite is c# python javascript css html
 
-### interested 🏅
+### Interested 🏅
 I love learning about computers and graphics. I studied editing, animation, photo editing and programming languages. But mostly I'm immersed in coding and learning programming languages. and investing and the stock market (what made me rich)
 
 ### Contact 📝
